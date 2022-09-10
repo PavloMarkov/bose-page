@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Bose landing page with Gulp, SCSS, BEM and Stylelint.
+1. - [DEMO LINK](https://pavlomarkov.github.io/bose-page/)
+2. - adaptive page for mobile, tablet & PC devices.
+3. - all blocks were placed & styled accordint to BEM methodology
